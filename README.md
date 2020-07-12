@@ -153,7 +153,13 @@ O Grafana obterá do Prometheus as métricas monitoradas e gerará os Dashboards
 O SonarQube possibilitará análise em virtude do pipeline de testes do projeto.
 
 ## 9. Database Automation
+
+Para automação do banco de dados Mongo, que é utilizado na aplicação antenas, será utilizada a aplicação Mongock.  
+
+<br><br><br>
+
 ## 10. Release Orchestration
+
 ## 11. Security
 ## 12. Configuration
 O Ansible é uma ferramenta de automação de código aberto usada para configurar servidores, instalar software e executar uma grande variedade de tarefas de TI a partir de uma localização central e sua única dependência é ter Python2 instalado.
